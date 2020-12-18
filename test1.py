@@ -28,3 +28,7 @@ b = [11, 99, 33, 69, 77, 88, 55, 11, 33, 36, 39, 66, 44, 22]
 re=quick_sort(b)
 print('b:',b)
 print('排序后:',re)
+
+
+re.reverse()
+print(re)
